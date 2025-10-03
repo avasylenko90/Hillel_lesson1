@@ -2,5 +2,4 @@ print("Hello World")
 print("hello Alina")
 print ("30 September")
 print ("email update")
-
-
+x = input ("type number: ")
