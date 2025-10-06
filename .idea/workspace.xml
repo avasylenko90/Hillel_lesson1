@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="add example">
-      <change afterPath="$PROJECT_DIR$/Helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +115,7 @@
       <updated>1759258323158</updated>
       <workItem from="1759258324264" duration="6627000" />
       <workItem from="1759510022477" duration="435000" />
-      <workItem from="1759510480386" duration="4708000" />
+      <workItem from="1759510480386" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <option name="closed" value="true" />
@@ -184,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759509711831</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add example">
+      <option name="closed" value="true" />
+      <created>1759515222376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759515222376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson_2">
+      <option name="closed" value="true" />
+      <created>1759515406384</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759515406384</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +220,8 @@
     <MESSAGE value="2nd lesson" />
     <MESSAGE value="2nd lesson_1.2" />
     <MESSAGE value="add example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add example" />
+    <MESSAGE value="lesson_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hillel_lesson1$Helper.coverage" NAME="Helper Coverage Results" MODIFIED="1759515113743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
