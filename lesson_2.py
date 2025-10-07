@@ -26,4 +26,14 @@ y = divmod(answer, 10)[0]%10
 x = divmod(answer,100)[0]%10
 w = divmod(answer,1000)[0]%10
 v= divmod(answer,10000)[0]%10
-print(z,y,x,w,v)
+print(z,y,x,w,v,sep="")
+
+print("Great job! And now lets do the same but using another operator")
+print("Could you please enter any positive number which consists of 5 digits from 0 to 9")
+answer = int(input())
+z = answer % 10
+y = (answer//10)%10
+x = (answer//100)%10
+w = (answer//1000)%10
+v = (answer//10000)%10
+print(z,y,x,w,v,sep="")
