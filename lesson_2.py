@@ -18,5 +18,12 @@ print(divmod(answer, 100)[0] %10)
 print(divmod(answer, 10)[0]%10)
 print(divmod(answer,10)[1])
 
-
-
+print("And now lets do the second task from the lesson 2")
+print("Could you please enter any positive number which consists of 5 digits from 0 to 9")
+answer = int(input())
+z = divmod(answer,10)[1]
+y = divmod(answer, 10)[0]%10
+x = divmod(answer,100)[0]%10
+w = divmod(answer,1000)[0]%10
+v= divmod(answer,10000)[0]%10
+print(z,y,x,w,v)
