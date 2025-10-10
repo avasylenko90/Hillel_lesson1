@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_3&#10;hometask 3.1">
-      <change beforePath="$PROJECT_DIR$/lesson_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Helper.executor": "Run",
     "Python.example_package.executor": "Run",
+    "Python.hw_3.2.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.main.executor": "Run",
@@ -72,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson_3">
+  <component name="RunManager" selected="Python.hw_3.2">
     <configuration name="example_package" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -88,6 +90,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_lesson1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_3.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,6 +192,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.hw_3.2" />
       <item itemvalue="Python.example_package" />
       <item itemvalue="Python.lesson_2" />
       <item itemvalue="Python.lesson_3" />
@@ -174,10 +200,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw_3.2" />
         <item itemvalue="Python.lesson_3" />
         <item itemvalue="Python.lesson_2" />
         <item itemvalue="Python.example_package" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -201,7 +227,7 @@
       <workItem from="1759510022477" duration="435000" />
       <workItem from="1759510480386" duration="6531000" />
       <workItem from="1759767615498" duration="39245000" />
-      <workItem from="1760032435407" duration="1854000" />
+      <workItem from="1760032435407" duration="9364000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <option name="closed" value="true" />
@@ -347,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760033673272</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="lesson_3&#10;hometask 3.1">
+      <option name="closed" value="true" />
+      <created>1760084553041</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1760084553041</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,10 +411,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="lesson_3&#10;hometask 3.1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hillel_lesson1$lesson_3.coverage" NAME="lesson_3 Coverage Results" MODIFIED="1760033499874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hillel_lesson1$lesson_3.coverage" NAME="lesson_3 Coverage Results" MODIFIED="1760107234396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hillel_lesson1$Helper.coverage" NAME="Helper Coverage Results" MODIFIED="1759515113743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hillel_lesson1$lesson_2.coverage" NAME="lesson_2 Coverage Results" MODIFIED="1759854201566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hillel_lesson1$main.coverage" NAME="main Coverage Results" MODIFIED="1759770982166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hillel_lesson1$hw_3_2.coverage" NAME="hw_3.2 Coverage Results" MODIFIED="1760109517298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Hillel_lesson1$example_package.coverage" NAME="example_package Coverage Results" MODIFIED="1759770996764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
