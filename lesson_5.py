@@ -1,5 +1,8 @@
-print(ord('v')) # виведе: 97
-print(ord('F')) # виведе: 70
-print(ord('\n')) # виведе: 10
-print(ord('I')) # виведе: 73
-print(ord('І')) # виведе: 1030 тому що ця літера відноситься до українського алфавіту
+x = input("Please create the password: ")
+y = list(x)
+if y[0].isdigit():
+    print("Password can't start with digit")
+for i in y:
+    if i.isupper():
+        print("Password can't start with uppercase")
+
