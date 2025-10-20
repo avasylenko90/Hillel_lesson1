@@ -36,7 +36,6 @@ for i in y:
     if x in keyword.kwlist:
         print("False. The name of variable can't contain Python keywords")
         break
-
 for i in range(len(y) - 1):
     if y[i] == "_" and y[i + 1] == "_":
         print("False. The name of variable can't contain more than 1 _")
