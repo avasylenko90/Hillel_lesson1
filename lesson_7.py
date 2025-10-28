@@ -1,5 +1,7 @@
-def greet(name, greeting="Hello"):
-    print(f"{greeting}, {name}!")
+def example_function(*args):
+def example_function(*kwargs):
+    for arg in args:
+        print(arg)
 
-greet(greeting="Hello", name="Alice")
-greet(name="Alice", greeting="Hello")
+# Виклик функції з різною кількістю позиційних аргументів
+example_function(1, 2, 3, 4, 5)

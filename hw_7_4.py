@@ -5,3 +5,7 @@ def common_elements():
     return r3
 
 assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
+
+my_set = {1, 2, 3, 4}
+my_frozen1 = frozenset(my_set)
+print(my_frozen1)
