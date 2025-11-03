@@ -1,6 +1,10 @@
 def add_one(random_list):
-    return random_list
+     list = []
+     interim = int(random_list)
+     list.append(interim)
+     new_list = (list[0]+1)
+     print(new_list)
+
 
 random_list = input("please enter any number of random digits:")
-random_list = [int(x) for x in random_list]
-result = add_one(random_list)
+add_one(random_list)
