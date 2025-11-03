@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.1">
-      <change afterPath="$PROJECT_DIR$/lesson_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projecteuler_net.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8_1.py" afterDir="false" />
     </list>
@@ -97,7 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson_9">
+  <component name="RunManager" selected="Python.hw_8_1">
     <configuration name="hw_7_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -219,8 +217,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson_9" />
         <item itemvalue="Python.hw_8_1" />
+        <item itemvalue="Python.lesson_9" />
         <item itemvalue="Python.lesson_7" />
         <item itemvalue="Python.hw_7_4" />
         <item itemvalue="Python.lesson_8" />
@@ -608,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761669906960</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="lesson_8&#10;homework 8.1">
+      <option name="closed" value="true" />
+      <created>1762198212846</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1762198212846</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
