@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.1 (revised)">
-      <change beforePath="$PROJECT_DIR$/hw_8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8.2.py" afterDir="false" />
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.2 (revised)">
+      <change afterPath="$PROJECT_DIR$/hw_9_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,77 +48,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Helper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_package.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_6.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_7_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_7_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_7_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_8.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_8_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/287908/OneDrive - UST/Documents/Python Basic_Sep 2025/Hillel_lesson1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Helper.executor": "Run",
+    "Python.example_package.executor": "Run",
+    "Python.hw_3.2.executor": "Run",
+    "Python.hw_3.3.executor": "Run",
+    "Python.hw_4.1.executor": "Run",
+    "Python.hw_4.2.executor": "Run",
+    "Python.hw_4.3.executor": "Run",
+    "Python.hw_5.2.executor": "Run",
+    "Python.hw_5.3.executor": "Run",
+    "Python.hw_6.1.executor": "Run",
+    "Python.hw_6.3.executor": "Run",
+    "Python.hw_6_2.executor": "Run",
+    "Python.hw_7.3.executor": "Run",
+    "Python.hw_7_1.executor": "Run",
+    "Python.hw_7_2.executor": "Run",
+    "Python.hw_7_4.executor": "Run",
+    "Python.hw_8.2.executor": "Run",
+    "Python.hw_8_1.executor": "Run",
+    "Python.hw_9_1.executor": "Run",
+    "Python.lesson_2.executor": "Run",
+    "Python.lesson_3.executor": "Run",
+    "Python.lesson_4.executor": "Run",
+    "Python.lesson_5.executor": "Run",
+    "Python.lesson_6.executor": "Run",
+    "Python.lesson_7.executor": "Run",
+    "Python.lesson_8.executor": "Run",
+    "Python.lesson_9.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "develop",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/287908/OneDrive - UST/Documents/Python Basic_Sep 2025/Hillel_lesson1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.hw_8.2">
-    <configuration name="hw_7_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_lesson1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_7_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Python.hw_9_1">
     <configuration name="hw_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -155,6 +134,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_8.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_lesson1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_9_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +209,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hw_7_4" />
+      <item itemvalue="Python.hw_9_1" />
       <item itemvalue="Python.hw_8.2" />
       <item itemvalue="Python.hw_8_1" />
       <item itemvalue="Python.lesson_7" />
@@ -216,11 +217,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw_9_1" />
         <item itemvalue="Python.hw_8.2" />
         <item itemvalue="Python.hw_8_1" />
         <item itemvalue="Python.lesson_9" />
         <item itemvalue="Python.lesson_7" />
-        <item itemvalue="Python.hw_7_4" />
       </list>
     </recent_temporary>
   </component>
@@ -244,14 +245,6 @@
       <workItem from="1759767615498" duration="39245000" />
       <workItem from="1760032435407" duration="41955000" />
       <workItem from="1760622278581" duration="77324000" />
-    </task>
-    <task id="LOCAL-00001" summary="second commit">
-      <option name="closed" value="true" />
-      <created>1759258542799</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1759258542799</updated>
     </task>
     <task id="LOCAL-00002" summary="Third commit">
       <option name="closed" value="true" />
@@ -629,7 +622,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762262391084</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="lesson_8&#10;homework 8.2 (revised)">
+      <option name="closed" value="true" />
+      <created>1762269040396</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1762269040396</updated>
+    </task>
+    <task id="LOCAL-00050" summary="lesson_8&#10;homework 8.2 (revised)">
+      <option name="closed" value="true" />
+      <created>1762269049529</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1762269049531</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add example" />
     <MESSAGE value="lesson_2" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.1" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.2" />
@@ -672,7 +680,8 @@
     <MESSAGE value="lesson_7&#10;homework 7.4" />
     <MESSAGE value="lesson_8&#10;homework 8.1" />
     <MESSAGE value="lesson_8&#10;homework 8.1 (revised)" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.1 (revised)" />
+    <MESSAGE value="lesson_8&#10;homework 8.2 (revised)" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.2 (revised)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
