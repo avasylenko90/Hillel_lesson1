@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_9&#10;homework 9.1">
-      <change afterPath="$PROJECT_DIR$/w_9_2.py" afterDir="false" />
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_9&#10;homework 9.2">
+      <change afterPath="$PROJECT_DIR$/lesson_10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,8 @@
     "Python.hw_8.2.executor": "Run",
     "Python.hw_8_1.executor": "Run",
     "Python.hw_9_1.executor": "Run",
+    "Python.hw_9_2.executor": "Run",
+    "Python.lesson_10.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
@@ -98,7 +100,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hw_9_2">
+  <component name="RunManager" selected="Python.lesson_10">
     <configuration name="hw_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -187,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,18 +213,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.hw_9_1" />
+      <item itemvalue="Python.hw_9_2" />
+      <item itemvalue="Python.lesson_10" />
       <item itemvalue="Python.hw_8.2" />
       <item itemvalue="Python.hw_8_1" />
-      <item itemvalue="Python.lesson_9" />
-      <item itemvalue="Python.hw_9_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_10" />
         <item itemvalue="Python.hw_9_2" />
         <item itemvalue="Python.hw_9_1" />
         <item itemvalue="Python.hw_8.2" />
         <item itemvalue="Python.hw_8_1" />
-        <item itemvalue="Python.lesson_9" />
       </list>
     </recent_temporary>
   </component>
@@ -246,22 +248,6 @@
       <workItem from="1759767615498" duration="39245000" />
       <workItem from="1760032435407" duration="41955000" />
       <workItem from="1760622278581" duration="77324000" />
-    </task>
-    <task id="LOCAL-00004" summary="Third commit">
-      <option name="closed" value="true" />
-      <created>1759260896044</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1759260896044</updated>
-    </task>
-    <task id="LOCAL-00005" summary="2nd lesson">
-      <option name="closed" value="true" />
-      <created>1759508795097</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1759508795097</updated>
     </task>
     <task id="LOCAL-00006" summary="2nd lesson_1.2">
       <option name="closed" value="true" />
@@ -639,7 +625,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762272001807</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="lesson_9&#10;homework 9.2">
+      <option name="closed" value="true" />
+      <created>1762273386057</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1762273386057</updated>
+    </task>
+    <task id="LOCAL-00054" summary="lesson_9&#10;homework 9.2">
+      <option name="closed" value="true" />
+      <created>1762273460844</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1762273460844</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson_2&#10;HomeTask 2.1" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.2" />
     <MESSAGE value="lesson_3&#10;hometask 3.1" />
     <MESSAGE value="lesson_3&#10;hometask 3.2" />
@@ -682,7 +683,8 @@
     <MESSAGE value="lesson_8&#10;homework 8.1 (revised)" />
     <MESSAGE value="lesson_8&#10;homework 8.2 (revised)" />
     <MESSAGE value="lesson_9&#10;homework 9.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_9&#10;homework 9.1" />
+    <MESSAGE value="lesson_9&#10;homework 9.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_9&#10;homework 9.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

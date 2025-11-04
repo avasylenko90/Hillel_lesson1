@@ -25,6 +25,5 @@ def bubble_sort_visualization(data):
     plt.show()
 
 
-# Приклад використання
 initial_data = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort_visualization(initial_data)
