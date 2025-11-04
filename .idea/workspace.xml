@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.2">
-      <change afterPath="$PROJECT_DIR$/hw_8_3.py" afterDir="false" />
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hw_8_3">
+  <component name="RunManager" selected="Python.hw_8_1">
     <configuration name="hw_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -217,9 +217,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw_8_1" />
         <item itemvalue="Python.hw_8_3" />
         <item itemvalue="Python.hw_8.2" />
-        <item itemvalue="Python.hw_8_1" />
         <item itemvalue="Python.lesson_9" />
         <item itemvalue="Python.lesson_7" />
       </list>
@@ -630,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762201445153</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="lesson_8&#10;homework 8.3">
+      <option name="closed" value="true" />
+      <created>1762259836256</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1762259836256</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add example" />
     <MESSAGE value="lesson_2" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.1" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.2" />
@@ -673,7 +680,8 @@
     <MESSAGE value="lesson_7&#10;homework 7.4" />
     <MESSAGE value="lesson_8&#10;homework 8.1" />
     <MESSAGE value="lesson_8&#10;homework 8.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.2" />
+    <MESSAGE value="lesson_8&#10;homework 8.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

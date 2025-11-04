@@ -1,11 +1,10 @@
 def add_one(some_digits):
-     list = []
-     interim = int(some_digits)
-     list.append(interim)
-     new_digit = (list[0] + 1)
-     final_list = [int(x) for x in str(new_digit)]
-     print(final_list)
+    new_digit = int("".join(str(x) for x in some_digits))
+    updated_digit = new_digit.__add__(1)
+    updated_list = [int(x) for x in str(updated_digit)]
+    print(updated_list)
 
 
-some_digits = input("please enter any number of random digits:")
+some_digits = [9]
 add_one(some_digits)
+
