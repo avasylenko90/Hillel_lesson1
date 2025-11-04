@@ -1,5 +1,4 @@
-def palindrome():
-    expression = input("please enter expression:")
+def is_palindrome(expression: str):
     expression = expression.lower()
     clear_expression = [char for char in expression if char.isdigit() or char.isalpha()]
     clear_str = "".join(clear_expression)
@@ -7,6 +6,10 @@ def palindrome():
         return True
     else:
         return False
-        print(clear_str)
-result = palindrome()
-print(result)
+
+
+assert is_palindrome('A man, a plan, a canal: Panama') == True, 'Test1'
+assert is_palindrome('0P') == False, 'Test2'
+assert is_palindrome('a.') == True, 'Test3'
+assert is_palindrome('aurora') == False, 'Test4'
+print("ОК ✅")
