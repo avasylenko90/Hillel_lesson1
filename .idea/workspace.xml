@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.3">
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_8&#10;homework 8.1">
+      <change afterPath="$PROJECT_DIR$/hw_8.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,6 @@
     "Python.hw_7_4.executor": "Run",
     "Python.hw_8.2.executor": "Run",
     "Python.hw_8_1.executor": "Run",
-    "Python.hw_8_3.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
@@ -97,7 +96,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hw_8_1">
+  <component name="RunManager" selected="Python.hw_8.2">
+    <configuration name="hw_7_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_lesson1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_7_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hw_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -134,28 +155,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_8.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw_8_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_lesson1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_8_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +208,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.hw_7_4" />
       <item itemvalue="Python.hw_8.2" />
       <item itemvalue="Python.hw_8_1" />
-      <item itemvalue="Python.hw_8_3" />
       <item itemvalue="Python.lesson_7" />
       <item itemvalue="Python.lesson_9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw_8_1" />
-        <item itemvalue="Python.hw_8_3" />
         <item itemvalue="Python.hw_8.2" />
+        <item itemvalue="Python.hw_8_1" />
         <item itemvalue="Python.lesson_9" />
         <item itemvalue="Python.lesson_7" />
+        <item itemvalue="Python.hw_7_4" />
       </list>
     </recent_temporary>
   </component>
@@ -622,23 +621,7 @@
       <option name="project" value="LOCAL" />
       <updated>1762199030195</updated>
     </task>
-    <task id="LOCAL-00048" summary="lesson_8&#10;homework 8.2">
-      <option name="closed" value="true" />
-      <created>1762201445153</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1762201445153</updated>
-    </task>
-    <task id="LOCAL-00049" summary="lesson_8&#10;homework 8.3">
-      <option name="closed" value="true" />
-      <created>1762259836256</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1762259836256</updated>
-    </task>
-    <option name="localTasksCounter" value="50" />
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,6 +639,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd lesson_1.2" />
+    <MESSAGE value="add example" />
     <MESSAGE value="lesson_2" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.1" />
     <MESSAGE value="lesson_2&#10;HomeTask 2.2" />
@@ -679,9 +664,7 @@
     <MESSAGE value="lesson_8&#10;homework 8" />
     <MESSAGE value="lesson_7&#10;homework 7.4" />
     <MESSAGE value="lesson_8&#10;homework 8.1" />
-    <MESSAGE value="lesson_8&#10;homework 8.2" />
-    <MESSAGE value="lesson_8&#10;homework 8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_8&#10;homework 8.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
