@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_10&#10;homework 10.2">
-      <change afterPath="$PROJECT_DIR$/hw_10/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_10.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/hw_10.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_10.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/hw_10.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/lesson_10.py" afterDir="false" />
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_10&#10;homework 10.3">
+      <change afterPath="$PROJECT_DIR$/hw/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/lesson_11/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/lesson_11/hw_11_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/lesson_11/lesson_11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +107,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\287908\OneDrive - UST\Documents\Python Basic_Sep 2025\Hillel_lesson1\hw\lesson_11" />
+      <recent name="C:\Users\287908\OneDrive - UST\Documents\Python Basic_Sep 2025\Hillel_lesson1\hw" />
+      <recent name="C:\Users\287908\OneDrive - UST\Documents\Python Basic_Sep 2025\Hillel_lesson1\hw_10" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.hw_10.2">
     <configuration name="example_package" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
@@ -254,14 +262,6 @@
       <workItem from="1759767615498" duration="39245000" />
       <workItem from="1760032435407" duration="41955000" />
       <workItem from="1760622278581" duration="77324000" />
-    </task>
-    <task id="LOCAL-00008" summary="add example">
-      <option name="closed" value="true" />
-      <created>1759509711831</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1759509711831</updated>
     </task>
     <task id="LOCAL-00009" summary="add example">
       <option name="closed" value="true" />
@@ -647,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763311738600</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="lesson_10&#10;homework 10.3">
+      <option name="closed" value="true" />
+      <created>1763312130503</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1763312130503</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson_3&#10;hometask 3.2" />
     <MESSAGE value="lesson_3&#10;hometask 3.3" />
     <MESSAGE value="lesson_4&#10;hometask 4.1" />
     <MESSAGE value="lesson_4&#10;hometask 4.2" />
@@ -690,7 +697,8 @@
     <MESSAGE value="lesson_9&#10;homework 9.2" />
     <MESSAGE value="lesson_10&#10;homework 10.1" />
     <MESSAGE value="lesson_10&#10;homework 10.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_10&#10;homework 10.2" />
+    <MESSAGE value="lesson_10&#10;homework 10.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_10&#10;homework 10.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
