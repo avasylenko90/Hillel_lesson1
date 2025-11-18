@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_11&#10;homework 11.2">
-      <change afterPath="$PROJECT_DIR$/hw/lesson_11/hw_11.3.py" afterDir="false" />
+    <list default="true" id="ff8ea20d-80c7-4299-959c-b3e991a1e9ae" name="Changes" comment="lesson_11&#10;homework 11.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw/lesson_11/lesson_11_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/lesson_11/hw_11_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
       <recent name="C:\Users\287908\OneDrive - UST\Documents\Python Basic_Sep 2025\Hillel_lesson1\hw_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw_11.3">
+  <component name="RunManager" selected="Python.hw_11_1">
     <configuration name="hw_10.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hillel_lesson1" />
       <option name="ENV_FILES" value="" />
@@ -152,6 +150,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\287908\OneDrive - UST\Documents\Python Basic_Sep 2025\Hillel_lesson1\hw_10\hw_10.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_11_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_lesson1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw/lesson_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw/lesson_11/hw_11_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,42 +224,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw_14_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_lesson1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw/hw_hillel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw/hw_hillel/hw_14_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.hw_10.1" />
       <item itemvalue="Python.hw_10.2" />
       <item itemvalue="Python.hw_11.3" />
+      <item itemvalue="Python.hw_11_1" />
       <item itemvalue="Python.hw_11_2" />
-      <item itemvalue="Python.hw_14_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw_11_1" />
         <item itemvalue="Python.hw_11.3" />
         <item itemvalue="Python.hw_11_2" />
         <item itemvalue="Python.hw_10.2" />
         <item itemvalue="Python.hw_10.1" />
-        <item itemvalue="Python.hw_14_2" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +261,6 @@
       <workItem from="1759767615498" duration="39245000" />
       <workItem from="1760032435407" duration="41955000" />
       <workItem from="1760622278581" duration="77324000" />
-    </task>
-    <task id="LOCAL-00011" summary="lesson_2">
-      <option name="closed" value="true" />
-      <created>1759745763594</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1759745763595</updated>
     </task>
     <task id="LOCAL-00012" summary="lesson_2">
       <option name="closed" value="true" />
@@ -656,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763319334456</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="lesson_11&#10;homework 11.3">
+      <option name="closed" value="true" />
+      <created>1763320103897</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1763320103897</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,7 +672,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson_4&#10;hometask 4.2" />
     <MESSAGE value="lesson_4&#10;hometask 4.3" />
     <MESSAGE value="lesson_4&#10;hometask 4.2 - fixed indentation" />
     <MESSAGE value="lesson_5&#10;hometask 5.1" />
@@ -699,7 +696,8 @@
     <MESSAGE value="lesson_10&#10;homework 10.3" />
     <MESSAGE value="lesson_11&#10;homework 11.1" />
     <MESSAGE value="lesson_11&#10;homework 11.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson_11&#10;homework 11.2" />
+    <MESSAGE value="lesson_11&#10;homework 11.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_11&#10;homework 11.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,17 +1,15 @@
-def prime_generator(end):
-    if n < 2:
-        return False
-    for i in range(2, n + 1):
-        if n % i == 0:
-            break
-    return i == n
-
-def prime_generator(end):
-    for num in range(2, end + 1):
-        if IsPrime(num):
-            yield num
+import math
 from inspect import isgenerator
 
+def prime_generator(end):
+    for n in range(2, end + 1):
+        is_prime = True
+        for i in range(2, int(math.sqrt(n)) + 1):
+            if n % i == 0:
+                is_prime = False
+                break
+        if is_prime:
+            yield n
 gen = prime_generator(1)
 assert isgenerator(gen) == True, 'Test0'
 assert list(prime_generator(10)) == [2, 3, 5, 7], 'Test1'
