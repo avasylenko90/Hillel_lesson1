@@ -1,6 +1,5 @@
 import math
 from inspect import isgenerator
-
 def prime_generator(end):
     for n in range(2, end + 1):
         is_prime = True
